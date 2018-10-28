@@ -1,0 +1,8 @@
+#
+# DREIVE_TEST device configuration
+#
+config DREIVE_TEST
+	tristate "DREIVE_TEST"
+	default m
+	help
+	  This is a test 
